@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace BDProjet_2_Smon_Alex
 {
-    public partial class Form1 : Form
+    public partial class Connexion : Form
     {
-        public Form1()
+        public Connexion()
         {
             InitializeComponent();
         }
