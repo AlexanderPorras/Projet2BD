@@ -19,7 +19,11 @@ namespace BDProjet_2_Smon_Alex
 
         private void btnConnexion_Click(object sender, EventArgs e)
         {
+<<<<<<< HEAD
             int a = 3;
+=======
+            int a = 2;
+>>>>>>> 0c8c19e57c2cdb901e3f8fbc64bcadbfcc72d86c
         }
     }
 }
