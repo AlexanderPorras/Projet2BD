@@ -1,0 +1,8 @@
+L:\BDProjet-2-Smon-Alex\BDProjet-2-Smon-Alex\obj\Debug\BDProjet_2_Smon_Alex.Properties.Resources.resources
+L:\BDProjet-2-Smon-Alex\BDProjet-2-Smon-Alex\obj\Debug\BDProjet-2-Smon-Alex.csproj.GenerateResource.cache
+L:\BDProjet-2-Smon-Alex\BDProjet-2-Smon-Alex\obj\Debug\BDProjet-2-Smon-Alex.csproj.CoreCompileInputs.cache
+L:\BDProjet-2-Smon-Alex\BDProjet-2-Smon-Alex\bin\Debug\BDProjet-2-Smon-Alex.exe.config
+L:\BDProjet-2-Smon-Alex\BDProjet-2-Smon-Alex\bin\Debug\BDProjet-2-Smon-Alex.exe
+L:\BDProjet-2-Smon-Alex\BDProjet-2-Smon-Alex\bin\Debug\BDProjet-2-Smon-Alex.pdb
+L:\BDProjet-2-Smon-Alex\BDProjet-2-Smon-Alex\obj\Debug\BDProjet-2-Smon-Alex.exe
+L:\BDProjet-2-Smon-Alex\BDProjet-2-Smon-Alex\obj\Debug\BDProjet-2-Smon-Alex.pdb
