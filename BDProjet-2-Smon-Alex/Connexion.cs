@@ -19,7 +19,7 @@ namespace BDProjet_2_Smon_Alex
 
         private void btnConnexion_Click(object sender, EventArgs e)
         {
-            int a = 0;
+            int a = 2;
         }
     }
 }
