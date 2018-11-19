@@ -67,6 +67,7 @@
             this.btnConnexion.TabIndex = 18;
             this.btnConnexion.Text = "Connecter";
             this.btnConnexion.UseVisualStyleBackColor = true;
+            this.btnConnexion.Click += new System.EventHandler(this.btnConnexion_Click);
             // 
             // lblMDP
             // 
