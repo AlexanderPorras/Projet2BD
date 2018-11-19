@@ -11,5 +11,6 @@ namespace BDProjet_2_Smon_Alex.Les_Claases
         public string idAbonnement { get; set; }
         public DateTime dateRenouvellement { get; set; }
         public string remarqueReabonnements { get; set; }
+
     }
 }

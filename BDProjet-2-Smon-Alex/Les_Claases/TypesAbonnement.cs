@@ -8,5 +8,8 @@ namespace BDProjet_2_Smon_Alex.Les_Claases
 {
     class TypesAbonnement
     {
+        public int noTypesAbonnement { get; set; }
+        public string descriptionTypesAbonnement { get; set; }
+        public string remarqueTypesAbonnement { get; set; }
     }
 }

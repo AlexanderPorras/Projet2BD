@@ -16,3 +16,12 @@ L:\BDProjet-2-Smon-Alex\BDProjet-2-Smon-Alex\obj\Debug\BDProjet-2-Smon-Alex.pdb
 \\sv-don\etudiants$\a.porras\Documents\GitHub\Projet2BD\BDProjet-2-Smon-Alex\obj\Debug\BDProjet-2-Smon-Alex.csproj.CoreCompileInputs.cache
 \\sv-don\etudiants$\a.porras\Documents\GitHub\Projet2BD\BDProjet-2-Smon-Alex\obj\Debug\BDProjet-2-Smon-Alex.exe
 \\sv-don\etudiants$\a.porras\Documents\GitHub\Projet2BD\BDProjet-2-Smon-Alex\obj\Debug\BDProjet-2-Smon-Alex.pdb
+E:\Gerald-Godin\BaseDeDonnee\Projet 2\Projet2BD\BDProjet-2-Smon-Alex\bin\Debug\BDProjet-2-Smon-Alex.exe.config
+E:\Gerald-Godin\BaseDeDonnee\Projet 2\Projet2BD\BDProjet-2-Smon-Alex\bin\Debug\BDProjet-2-Smon-Alex.exe
+E:\Gerald-Godin\BaseDeDonnee\Projet 2\Projet2BD\BDProjet-2-Smon-Alex\bin\Debug\BDProjet-2-Smon-Alex.pdb
+E:\Gerald-Godin\BaseDeDonnee\Projet 2\Projet2BD\BDProjet-2-Smon-Alex\obj\Debug\BDProjet_2_Smon_Alex.Connexion.resources
+E:\Gerald-Godin\BaseDeDonnee\Projet 2\Projet2BD\BDProjet-2-Smon-Alex\obj\Debug\BDProjet_2_Smon_Alex.Properties.Resources.resources
+E:\Gerald-Godin\BaseDeDonnee\Projet 2\Projet2BD\BDProjet-2-Smon-Alex\obj\Debug\BDProjet-2-Smon-Alex.csproj.GenerateResource.cache
+E:\Gerald-Godin\BaseDeDonnee\Projet 2\Projet2BD\BDProjet-2-Smon-Alex\obj\Debug\BDProjet-2-Smon-Alex.csproj.CoreCompileInputs.cache
+E:\Gerald-Godin\BaseDeDonnee\Projet 2\Projet2BD\BDProjet-2-Smon-Alex\obj\Debug\BDProjet-2-Smon-Alex.exe
+E:\Gerald-Godin\BaseDeDonnee\Projet 2\Projet2BD\BDProjet-2-Smon-Alex\obj\Debug\BDProjet-2-Smon-Alex.pdb
